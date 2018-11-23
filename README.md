@@ -3,15 +3,15 @@ Jerry Dodge's ColorRecord Helper for easy manipulating of Web Colors, Delphi Col
 
 Some use cases
 
-Note: Delphi Hex order is not the same as HTML Hex order
-examples:
-HTML Hex Color (Web Development) = #FFFFFF
-HTML Hex Color Custom Constant (Inside Delphi, if we want to use) = $FFBF00 (Amber,#FFBF00 in web development)
-Delphi Hex Color = $F0CAA6
-Delphi TColor = clMoneyGreen
-R,G,B of a Color (0..255,0..255,0.255)
-H,S,V of a Color (0..1, 0..1, 0..1 )
-H(degrees),S,V of a Color (0..360, 0..1, 0..1 )
+- Note: Delphi Hex order is not the same as HTML Hex order
+- examples:
+- HTML Hex Color (Web Development) = #FFFFFF
+- HTML Hex Color Custom Constant (Inside Delphi, if we want to use) = $FFBF00 (Amber,#FFBF00 in web development)
+- Delphi Hex Color = $F0CAA6
+- Delphi TColor = clMoneyGreen
+- R,G,B of a Color (0..255,0..255,0.255)
+- H,S,V of a Color (0..1, 0..1, 0..1 )
+- H(degrees),S,V of a Color (0..360, 0..1, 0..1 )
 
 
 Natural String to color from editor based input (Goodie Part)

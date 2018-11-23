@@ -18,8 +18,8 @@ Natural String to color from editor based input (Goodie Part)
 
 
 **Trick to make tints of color**
-#Convert RGB to HSV and play with Value/Brightness(V field)
-#Back convert HSV to RGB.
+#Access as HSV and play with Value/Brightness(V field)
+#Use the final result as required.
 
 
 

@@ -53,7 +53,46 @@ Natural String to color from editor based input (Goodie Part)
         myHTMLColor := TNaturalColorHTMLHex.green;
         col1.SetHTMLHexWithDollar(Ord(myHTMLColor));
 
-        col1.SetColorFromNaturalString('orangered');
+        col1.SetColorFromNaturalString('rose');
         shp2.Brush.Color := col1;
     end;
 
+
+Supported Color Strings (Lowercase):
+                white 
+                silver 
+                gray 
+                black 
+                navy 
+                blue 
+                cerulean 
+                skyblue 
+                turquoise 
+                bluegreen 
+                azure 
+                teal 
+                cyan 
+                green 
+                lime 
+                chartreuse 
+                olive 
+                yellow 
+                gold 
+                amber 
+                orange 
+                brown 
+                orangered 
+                red
+                maroon 
+                rose 
+                redviolet 
+                pink 
+                magenta 
+                blueviolet 
+                purple 
+                indigo 
+                violet 
+                peach 
+                apricot 
+                ochre 
+                plum
